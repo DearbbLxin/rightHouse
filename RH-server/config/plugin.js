@@ -31,8 +31,8 @@ exports.cors = {
   package: 'egg-cors'
 };
 
-exports.sms = {
-  enable: true,
-  package: 'egg-sms'
-};
+// exports.sms = {
+//   enable: true,
+//   package: 'egg-sms'
+// };
 
